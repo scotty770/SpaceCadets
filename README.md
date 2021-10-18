@@ -1,2 +1,2 @@
 # SpaceCadets
-My solutions to the space cadets challenges
+My solutions to the space cadets challenges.
